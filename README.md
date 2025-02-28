@@ -4,6 +4,7 @@ A ready-to-go repo for job interviews that has:
 
     Ruby
     minitest
+    rspec-expectations
     rubocop
     an example source file + test
 
